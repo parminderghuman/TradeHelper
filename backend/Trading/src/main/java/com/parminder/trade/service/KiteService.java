@@ -27,8 +27,8 @@ public class KiteService {
 
 	public static String histoticalDataUrl = "https://kite.zerodha.com/oms/instruments/historical/";
 	String userId = "OX8934";
-	String password = "Angad@111019";
-	String twoFactorToken = "080910";
+	String password = "******";
+	String twoFactorToken = "******";
 	String enctoken = "";
 	String public_token = "";
 	String loginurl = "https://kite.zerodha.com/api/login";
